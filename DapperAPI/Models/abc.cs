@@ -7,6 +7,6 @@ namespace DapperAPI.Models
 {
     public class abc
     {
-        public int id { get; set; }
+        public int id { get; set; }  
     }
 }
